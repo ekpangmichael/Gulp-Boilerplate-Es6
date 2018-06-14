@@ -10,16 +10,15 @@
 <h3>How to install</h3>
 
 <ul>
-	<li> Clone or download the repo</li>
+	<li> Clone or download the repo <code>https://github.com/weezyval/Gulp-Boilerplate-Es6.git</code></li>
 	<li> cd to the directory and run 
 	<code>npm install</code>  to install all the dependencies 
-<li>
-<li> <code> Run gulp</code></li>
+<li> Run <code> gulp</code> command</li>
 
 </ul>
 
 <h3>How to use</h3>
 <li> Dont touch the build directory that is where all the minify files are stored</li>
-<li>Write your es6 code in the es6 folder. It will be converted and stord at <code>js folder</code></li>
+<li>Write your es6 code in the es6 folder. It will be converted to es5 and stord at <code>js folder</code></li>
 <li>Write your css on the css folder </code> the compress css will be stored at <code>build/css</code> folder</li>
 <li>Store your images in the <code>img folder</code> the compress images will be stored at <code>build/img</code> folder</li>
